@@ -17,31 +17,31 @@ Before we begin, ensure we have the following installed on your machine:<br/>
        Open your terminal and run the following command to clone the repository:<br/>
        ```
        git clone https://github.com/RN18o/Task-Manager.git
-       ```
+       ```<br/>
 ** 2). Navigate to the Project Directory ** <br/>
        Change into the project directory:
        ```
        cd Task-Manager
-       ```
+       ```<br/>
 ** 3). Install Dependencies ** <br/>
        Install the necessary packages using npm:
        ```
        npm install
        or
        yarn install
-       ```
+       ```<br/>
 ** 4). Start the Development Server ** <br/>
        After installing the dependencies, you can start the development server with:<br/>
        ```
        npm run dev
        or 
        yarn run dev
-       ```
+       ```<br/>
 **5). Access the Application ** <br/>
       Open your web browser and navigate to:<br/>
       ```
       http://localhost:5173/dashboard
-      ```
+      ```<br/>
       You should see the Task Manager application running.
 
 # Assumptions
@@ -53,6 +53,8 @@ Before we begin, ensure we have the following installed on your machine:<br/>
 ** 5). Responsive Design: ** The application was designed with the assumption that it would be used on desktop browsers primarily. While responsiveness was considered, mobile optimization was not a primary focus during development. 
 
 # ScreenShot 
+![2024-11-16 (1)](https://github.com/user-attachments/assets/e6a6597f-45f8-4f24-9b03-f163ba223d90)
+
 
 
 
