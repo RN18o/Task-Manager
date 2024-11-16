@@ -21,7 +21,9 @@ Before we begin, ensure we have the following installed on your machine:<br/>
 **1). Clone the Repository**<br/>
        Open your terminal and run the following command to clone the repository:<br/>
        ```
+       
        git clone https://github.com/RN18o/Task-Manager.git
+       
        ```<br/>
 
        
