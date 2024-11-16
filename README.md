@@ -1,7 +1,7 @@
 # About Project
 The Task Manager is a web application designed that allows users to manage their tasks effectively. It provides a user-friendly interface for creating, editing, deleting, and marking tasks as complete or incomplete.The application aims to enhance productivity by enabling users to prioritize their tasks and categorize them based on various criteria.
 # Functionalities of a Task Manager
-**1). Task Creation:** Users can add new tasks with specific details such as title and description.<br/>
+###**1). Task Creation:**### Users can add new tasks with specific details such as title and description.<br/>
 **2). Task Editing:** Existing tasks can be modified to update their details.<br/>
 **3). Task Deletion:** Users can remove tasks that are no longer needed.<br/>
 **4). Task Status Management:** Tasks can be marked as completed or pending, allowing users to track their progress.<br/>
