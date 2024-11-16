@@ -61,12 +61,10 @@ Before we begin, ensure we have the following installed on your machine:<br/>
 
        
 **5). Access the Application**<br/>
-      Open your web browser and navigate to:<br/>
-     
-      ```
+      Open your web browser and navigate to:<br/> 
+     ```
       http://localhost:5173/dashboard
-      
-      ```
+      ``` <br/>
       You should see the Task Manager application running.
 
 # Assumptions
